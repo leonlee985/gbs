@@ -23,13 +23,12 @@ Yii2-GBS(General Backend System) 是基于Yii2高级框架及一些扩展编写�
 7. 启动nginx,mysql,php-fpm,修改本机host, 浏览器打开配置的域名,如test.com，程序将自动跳转到登录页面，默认用户名密码为admin/123456。
 
 ##部分截图:
-登录
-![](https://github.com/leonlee985/gbs/blob/master/img/login.png)
-权限管理
-![](https://github.com/leonlee985/gbs/blob/master/img/admin.png)
-查询/管理
-![](https://github.com/leonlee985/gbs/blob/master/img/Main.png)
-新建表单
-![](https://github.com/leonlee985/gbs/blob/master/img/new.png)  
+<img src="https://github.com/leonlee985/gbs/blob/master/img/login.png" width = "283" height = "276" alt="图片名称" align=center />
+
+<img src="https://github.com/leonlee985/gbs/blob/master/img/admin.png" width = "600" height = "304" alt="图片名称" align=center />
+
+<img src="https://github.com/leonlee985/gbs/blob/master/img/Main.png" width = "800" height = "255" alt="图片名称" align=center />
+
+<img src="https://github.com/leonlee985/gbs/blob/master/img/new.png" width = "600" height = "552" alt="图片名称" align=center />
 
 *该系统主要作为模板使用，也可帮助初学者学习Yii2框架。如有喜欢的朋友，欢迎Fork和Star. 谢谢*
